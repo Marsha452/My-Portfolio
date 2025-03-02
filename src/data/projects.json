@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Vegan Cuisine",
+    "imageSrc": "projects/veganCuisine.png",
+    "description": "A user-friendly website featuring vibrant vegan recipes with intuitive navigation for a seamless browsing experience.",
+    "skills": ["HTML", "CSS", "JavaScript", "Cypress"],
+    "demo": "https://vegan-cuisine.vercel.app/",
+    "source": "https://github.com/Marsha452/vegan-cuisine"
+  },
+  {
+    "title": "Recipe App",
+    "imageSrc": "projects/recipeApp.png",
+    "description": "A dynamic recipe app offering an easy-to-use platform to discover and save your favorite recipes, with an intuitive interface for a seamless cooking experience.",
+    "skills": ["React", "CSS", "JavaScript", "Cypress"],
+    "demo": "https://recipeapp-alpha.vercel.app/",
+    "source": "https://github.com/Marsha452/recipeapp"
+  },
+  {
+    "title": "Anime Landing Page",
+    "imageSrc": "projects/anime.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["HTML", "CSS"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]

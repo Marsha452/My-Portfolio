@@ -1,0 +1,38 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Node",
+    "imageSrc": "skills/node.png"
+  },
+  {
+"title": "Git",
+"imageSrc": "skills/git.png"
+  },
+  {
+    "title": "Postman",
+    "imageSrc": "skills/postman.png"
+  },
+  {
+      "title": "Sass",
+      "imageSrc": "skills/sass.png"
+  },
+  {
+    "title": "Cypress",
+    "imageSrc": "skills/cypress.png"
+},
+{
+  "title": "Chai",
+  "imageSrc": "skills/chai.png"
+}
+]

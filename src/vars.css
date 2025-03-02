@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Kalam:wght@300;400;700&display=swap');
+:root {
+  /* Colours */
+  --color-text: #fff;
+  --color-primary: #015051;
+  --color-secondary:#04837B;
+  --color-dark: #01A7A3;
+  --color-bg: #04F2D5;
+
+  /* Fonts */
+  --font-kalam:"Kalam", serif;
+}

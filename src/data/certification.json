@@ -1,0 +1,20 @@
+[
+  {
+    "Certification": "Responsive Web Design",
+    "organisation": "Freecode Camp",
+    "certificateLink": "https://www.freecodecamp.org/certification/MarshaBrown/responsive-web-design",
+    "imageSrc": "certification/fcc.png"
+  },
+  {
+    "Certification": "Quality Assurance",
+    "organisation": "Freecode Camp",
+    "certificateLink":"https://www.freecodecamp.org/certification/MarshaBrown/quality-assurance-v7",
+    "imageSrc": "certification/fcc.png"
+  },
+  {
+    "Certification": "JavaScript Algorithms and Data Structures",
+    "organisation":"Freecode Camp" ,
+    "certificateLink":"https://www.freecodecamp.org/certification/MarshaBrown/javascript-algorithms-and-data-structures-v8" ,
+    "imageSrc": "certification/fcc.png"
+  }
+]
