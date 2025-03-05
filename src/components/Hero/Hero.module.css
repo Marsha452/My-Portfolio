@@ -49,12 +49,6 @@
   padding: 17px 26px;
   box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.25);
 }
-.button{
-  display: flex; /* Enables flexbox */
-    justify-content: space-between; /* Distribute sections with equal space */
-    gap: 60px; /* Space between each section */
-    padding: 20px; /* Optional: Add padding around the entire container */
-}
 .heroImg {
   width: 50%;
   z-index: 1;
@@ -113,8 +107,6 @@
   .content {
     align-items: center;
   }
-  .button{
-    display:block; 
-  }
+
   
 }
