@@ -2,11 +2,10 @@
 :root {
   /* Colours */
   --color-text: #fff;
-  --color-primary: #015051;
-  --color-secondary:#04837B;
-  --color-dark: #01A7A3;
-  --color-bg: #04F2D5;
-
+  --color-primary: #1ba097;
+  --color-secondary:#015051;
+  --color-dark:#015051;
+  --color-bg: #21bba9;
   /* Fonts */
   --font-kalam:"Kalam", serif;
 }

@@ -12,9 +12,11 @@ export const Hero = () => {
         Aspiring front-end developer crafting seamless, user-friendly experiences.
          Exploring JavaScript and modern web tech—let’s create something amazing!
         </p>
-        <a href="mailto:marshabrown452@gmail.com" className={styles.contactBtn}>
-          Contact Me
-        </a>
+        
+          <a href="https://drive.google.com/file/d/1Qa827STAfU0AZo1i7-QKRelwBoZbylH9/view?usp=sharing" className={styles.contactBtn} target="_blank">
+            Resume
+          </a>
+            
       </div>
       <img
         src={getImageUrl("hero/heroImage.png")}
