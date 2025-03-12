@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Bookcart App Tests",
+    "description": "This project features automated end-to-end tests for the Bookcart application using Cypress. It ensures that key functionalities like browsing books, adding them to the cart, and completing purchases work seamlessly. By catching potential issues early, these tests help maintain a smooth and reliable user experience",
+    "skills": ["CYPRESS", "NODE.JS", "GIT"],
+    "source": "https://github.com/Marsha452/Bookcart-Cypress-Tests"
+  },
+  {
+    "title": "Google Search Tests",
+    "description": "This project features automated end-to-end tests for Google Search using Cypress. It ensures that key functionalities like performing searches, navigating results, and interacting with the interface work seamlessly. By catching potential issues early, these tests help maintain a smooth and reliable user experience.",
+    "skills": ["CYPRESS", "NODE.JS", "GIT"],
+    "source": "https://github.com/Marsha452/Google-Cypress-Tests"
+  }
+]
